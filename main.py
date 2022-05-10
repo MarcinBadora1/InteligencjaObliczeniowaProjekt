@@ -61,5 +61,3 @@ for each in x_coordinates:
         old2 = each2
 lista = [x_coordinates[0], y_coordinates[0]]
 storage0 = storage(lista)
-
-
