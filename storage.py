@@ -27,3 +27,11 @@ def getter_storage_pickuped():
 
 def getter_storage_delivered():
     return self.storage_delivered
+
+@property
+def position_setter(a):
+    self.position=a
+def storage_pickup_setter(a):
+    self.storage_pickup=a
+def storage_delivered_setter(a):
+    self.storage_delivered=a

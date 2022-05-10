@@ -27,3 +27,12 @@ def getter_localisation():
     return self.localisation
 def getter_target_localisation():
     return self.target_localisation
+def localisation_setter(a):
+    self.localisation=a
+def current_capacity_setter(a):
+    self.Current_capacity=a
+def left_capacity_setter(a):
+    self.Capacity_left=a
+def target_localisation_setter(a):
+    self.target_localisation
+    
